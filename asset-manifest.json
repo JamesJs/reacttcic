@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/teste/static/css/main.ba84db67.chunk.css",
-    "main.js": "/teste/static/js/main.42d58d10.chunk.js",
-    "main.js.map": "/teste/static/js/main.42d58d10.chunk.js.map",
-    "runtime-main.js": "/teste/static/js/runtime-main.382b56d5.js",
-    "runtime-main.js.map": "/teste/static/js/runtime-main.382b56d5.js.map",
-    "static/css/2.64a99b10.chunk.css": "/teste/static/css/2.64a99b10.chunk.css",
-    "static/js/2.30797c56.chunk.js": "/teste/static/js/2.30797c56.chunk.js",
-    "static/js/2.30797c56.chunk.js.map": "/teste/static/js/2.30797c56.chunk.js.map",
-    "index.html": "/teste/index.html",
-    "precache-manifest.8d002bed1ea51eaec4be7aa431e07b5a.js": "/teste/precache-manifest.8d002bed1ea51eaec4be7aa431e07b5a.js",
-    "service-worker.js": "/teste/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/teste/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.ba84db67.chunk.css.map": "/teste/static/css/main.ba84db67.chunk.css.map",
-    "static/js/2.30797c56.chunk.js.LICENSE.txt": "/teste/static/js/2.30797c56.chunk.js.LICENSE.txt",
-    "static/media/UFSJ_logo_2018.jpg": "/teste/static/media/UFSJ_logo_2018.4499971f.jpg"
+    "main.css": "/reacttcic/static/css/main.ba84db67.chunk.css",
+    "main.js": "/reacttcic/static/js/main.c0add0e8.chunk.js",
+    "main.js.map": "/reacttcic/static/js/main.c0add0e8.chunk.js.map",
+    "runtime-main.js": "/reacttcic/static/js/runtime-main.421706f8.js",
+    "runtime-main.js.map": "/reacttcic/static/js/runtime-main.421706f8.js.map",
+    "static/css/2.64a99b10.chunk.css": "/reacttcic/static/css/2.64a99b10.chunk.css",
+    "static/js/2.30797c56.chunk.js": "/reacttcic/static/js/2.30797c56.chunk.js",
+    "static/js/2.30797c56.chunk.js.map": "/reacttcic/static/js/2.30797c56.chunk.js.map",
+    "index.html": "/reacttcic/index.html",
+    "precache-manifest.92c8e5440e07469f38540412c0d47b67.js": "/reacttcic/precache-manifest.92c8e5440e07469f38540412c0d47b67.js",
+    "service-worker.js": "/reacttcic/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/reacttcic/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.ba84db67.chunk.css.map": "/reacttcic/static/css/main.ba84db67.chunk.css.map",
+    "static/js/2.30797c56.chunk.js.LICENSE.txt": "/reacttcic/static/js/2.30797c56.chunk.js.LICENSE.txt",
+    "static/media/UFSJ_logo_2018.jpg": "/reacttcic/static/media/UFSJ_logo_2018.4499971f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.382b56d5.js",
+    "static/js/runtime-main.421706f8.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.30797c56.chunk.js",
     "static/css/main.ba84db67.chunk.css",
-    "static/js/main.42d58d10.chunk.js"
+    "static/js/main.c0add0e8.chunk.js"
   ]
 }
